@@ -64,7 +64,6 @@ C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\SimpleChat\bi
 C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\SimpleChat\bin\MySql.Data.dll
 C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\SimpleChat\bin\Newtonsoft.Json.dll
 C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\SimpleChat\bin\System.Net.Http.Extensions.dll
-C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\SimpleChat\bin\System.Net.Http.Formatting.dll
 C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\SimpleChat\bin\System.Net.Http.Primitives.dll
 C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\SimpleChat\bin\System.Web.Helpers.dll
 C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\SimpleChat\bin\System.Web.Http.dll
@@ -98,3 +97,4 @@ C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\SimpleChat\bi
 C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\SimpleChat\obj\Debug\SimpleChat.csprojResolveAssemblyReference.cache
 C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\SimpleChat\obj\Debug\Hospital.dll
 C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\SimpleChat\obj\Debug\Hospital.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\SimpleChat\bin\System.Net.Http.Formatting.dll

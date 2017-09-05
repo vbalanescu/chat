@@ -55,24 +55,54 @@ namespace User
             return false;
         }
 
-    private void refresh()
+        delegate void SetTextCallback(string text);
+
+        private void addText(string text)
+        {
+            if (listBox1.InvokeRequired)
+            {
+                SetTextCallback d = new SetTextCallback(addText);
+                this.Invoke(d, new object[] { text });
+            }
+            else
+            {
+                listBox1.Items.Add(text);
+            }
+        }
+
+        private void clearText(string s)
+        {
+            if (this.IsDisposed)
+                return;
+
+            if (listBox1.InvokeRequired)
+            {
+                SetTextCallback d = new SetTextCallback(clearText);
+                this.Invoke(d, new object[] { "" });
+            }
+            else
+            {
+                this.listBox1.Items.Clear();
+            }
+        }
+        private void refresh()
         {
             IEnumerable<MessageC> messages = getMessages(new MessageC() { IdS = u1.Id, IdR = u2.Id });
-            this.listBox1.Items.Clear();
+            clearText("");
             if (messages != null)
             {
                 foreach (MessageC msg in messages)
                 {
                     if (msg.IdS == u1.Id)
                     {
-                        this.listBox1.Items.Add("Me:");
+                        addText("Me");
                     }
                     else
                     {
-                        this.listBox1.Items.Add(u2.UserName+":");
+                        addText(u2.UserName + ":");
                     }
-                    this.listBox1.Items.Add(msg.MessageS);
-                    this.listBox1.Items.Add("");
+                    addText(msg.MessageS);
+                    addText("");
                 }
             }
         }
@@ -85,6 +115,7 @@ namespace User
         {
             MessageC m = new MessageC() { IdS = u1.Id, IdR = u2.Id, MessageS = textBox1.Text };
             sendMessage(m);
+            textBox1.Text = "";
         }
 
         public ChatForm(User user1, User user2)
@@ -95,11 +126,17 @@ namespace User
             this.u1 = user1;
             this.u2 = user2;
 
-        new Thread(threadFunc).Start();
+            new Thread(threadFunc).Start();
 
-        refresh();
+            //refresh();
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            refresh();
+        }
+
         private void threadFunc()
         {
             while (true)
