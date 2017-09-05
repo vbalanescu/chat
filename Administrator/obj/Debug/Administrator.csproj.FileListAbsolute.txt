@@ -1,0 +1,400 @@
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\Administrator.exe.config
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\Administrator.exe
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\Administrator.pdb
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\MySql.Data.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\MySql.Data.xml
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\obj\Debug\Administrator.textType.resources
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\obj\Debug\Administrator.Properties.Resources.resources
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\obj\Debug\Administrator.csproj.GenerateResource.Cache
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\obj\Debug\Administrator.exe
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\obj\Debug\Administrator.pdb
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\csc.exe
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\csc.exe.config
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\csc.rsp
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\csi.exe
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\csi.exe.config
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\csi.rsp
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Console.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Diagnostics.Process.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.IO.Compression.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.IO.Pipes.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Security.AccessControl.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Security.Claims.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Threading.Thread.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.ValueTuple.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Xml.XPath.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\vbc.exe
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\vbc.exe.config
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\vbc.rsp
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\WebGrease.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\Administrator\obj\Debug\Administrator.csprojResolveAssemblyReference.cache
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\csc.exe
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\csc.exe.config
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\csc.rsp
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\csi.exe
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\csi.exe.config
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\csi.rsp
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.Console.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.Diagnostics.Process.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.IO.Compression.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.IO.Pipes.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.Security.AccessControl.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.Security.Claims.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.Threading.Thread.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.ValueTuple.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.Xml.XPath.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\vbc.exe
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\vbc.exe.config
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\vbc.rsp
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\Administrator.exe.config
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\Administrator.exe
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\Administrator.pdb
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\MySql.Data.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\WebGrease.dll
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\MySql.Data.xml
+C:\Users\Radu1\Desktop\Hospital\Administrator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Radu1\Desktop\Hospital\Administrator\obj\Debug\Administrator.csprojResolveAssemblyReference.cache
+C:\Users\Radu1\Desktop\Hospital\Administrator\obj\Debug\Administrator.textType.resources
+C:\Users\Radu1\Desktop\Hospital\Administrator\obj\Debug\Administrator.Properties.Resources.resources
+C:\Users\Radu1\Desktop\Hospital\Administrator\obj\Debug\Administrator.csproj.GenerateResource.Cache
+C:\Users\Radu1\Desktop\Hospital\Administrator\obj\Debug\Administrator.exe
+C:\Users\Radu1\Desktop\Hospital\Administrator\obj\Debug\Administrator.pdb
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\csc.exe
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\csc.exe.config
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\csc.rsp
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\csi.exe
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\csi.exe.config
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\csi.rsp
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.Console.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.Diagnostics.Process.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.IO.Compression.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.IO.Pipes.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.Security.AccessControl.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.Security.Claims.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.Threading.Thread.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.ValueTuple.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.Xml.XPath.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\vbc.exe
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\vbc.exe.config
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\vbc.rsp
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\Administrator.exe.config
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\Administrator.exe
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\Administrator.pdb
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\MySql.Data.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\WebGrease.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\MySql.Data.xml
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\obj\Debug\Administrator.Properties.Resources.resources
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\obj\Debug\Administrator.csproj.GenerateResource.Cache
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\obj\Debug\Administrator.exe
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\obj\Debug\Administrator.pdb
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\Administrator\obj\Debug\Administrator.AdminForm.resources
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\csc.exe
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\csc.exe.config
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\csc.rsp
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\csi.exe
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\csi.exe.config
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\csi.rsp
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Console.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Diagnostics.Process.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.IO.Compression.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.IO.Pipes.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Security.AccessControl.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Security.Claims.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Threading.Thread.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.ValueTuple.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Xml.XPath.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\vbc.exe
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\vbc.exe.config
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\vbc.rsp
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\Administrator.exe.config
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\Administrator.exe
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\Administrator.pdb
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\MySql.Data.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\WebGrease.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\MySql.Data.xml
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\obj\Debug\Administrator.AdminForm.resources
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\obj\Debug\Administrator.Properties.Resources.resources
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\obj\Debug\Administrator.csproj.GenerateResource.Cache
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\obj\Debug\Administrator.exe
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\Administrator\obj\Debug\Administrator.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\csc.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\csc.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\csc.rsp
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\csi.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\csi.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\csi.rsp
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Console.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Diagnostics.Process.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.IO.Compression.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.IO.Pipes.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Security.AccessControl.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Security.Claims.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Threading.Thread.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.ValueTuple.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Xml.XPath.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\vbc.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\vbc.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\vbc.rsp
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\Administrator.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\Administrator.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\Administrator.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\Antlr3.Runtime.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\MySql.Data.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\WebGrease.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\MySql.Data.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\obj\Debug\Administrator.csprojResolveAssemblyReference.cache
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\obj\Debug\Administrator.AdminForm.resources
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\obj\Debug\Administrator.Properties.Resources.resources
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\obj\Debug\Administrator.csproj.GenerateResource.Cache
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\obj\Debug\Administrator.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\Administrator\obj\Debug\Administrator.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\csc.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\csc.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\csc.rsp
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\csi.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\csi.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\csi.rsp
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Console.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Diagnostics.Process.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.IO.Compression.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.IO.Pipes.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Security.AccessControl.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Security.Claims.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Threading.Thread.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.ValueTuple.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Xml.XPath.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\vbc.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\vbc.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\vbc.rsp
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\Administrator.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\Administrator.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\Administrator.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\Antlr3.Runtime.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\MySql.Data.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\WebGrease.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\MySql.Data.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\obj\Debug\Administrator.csprojResolveAssemblyReference.cache
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\obj\Debug\Administrator.Properties.Resources.resources
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\obj\Debug\Administrator.csproj.GenerateResource.Cache
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\obj\Debug\Administrator.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\obj\Debug\Administrator.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\Administrator\obj\Debug\Administrator.Register.resources
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\Administrator\bin\Debug\Administrator.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\Administrator\obj\Debug\Administrator.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\Administrator\obj\Debug\Administrator.pdb

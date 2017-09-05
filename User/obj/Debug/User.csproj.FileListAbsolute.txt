@@ -1,0 +1,14 @@
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\User\bin\Debug\User.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\User\bin\Debug\User.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\User\bin\Debug\User.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\User\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\User\obj\Debug\User.csprojResolveAssemblyReference.cache
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\User\obj\Debug\User.Properties.Resources.resources
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\User\obj\Debug\User.UserForm.resources
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\User\obj\Debug\User.csproj.GenerateResource.Cache
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\User\obj\Debug\User.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\User\obj\Debug\User.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\User\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\User\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\User\obj\Debug\User.csproj.User.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\User\obj\Debug\User.ChatForm.resources

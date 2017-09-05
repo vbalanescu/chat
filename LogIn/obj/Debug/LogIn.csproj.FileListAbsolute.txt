@@ -1,0 +1,423 @@
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\LogIn.exe
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\LogIn.pdb
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\obj\Debug\LogIn.csprojResolveAssemblyReference.cache
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\obj\Debug\LogIn.Form1.resources
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\obj\Debug\LogIn.csproj.GenerateResource.Cache
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\obj\Debug\LogIn.exe
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\obj\Debug\LogIn.pdb
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\obj\Debug\LogIn.csproj.LogIn.exe.config
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\ApplicationInsights.config
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\Administrator.exe
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\Doctor.exe
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\Hospital.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\System.Web.Optimization.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\System.Web.Mvc.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\System.Web.Http.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\MySql.Data.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\System.Web.Razor.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\System.Web.WebPages.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\Administrator.pdb
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\Administrator.exe.config
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\Doctor.pdb
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\Doctor.exe.config
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\Hospital.pdb
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\Hospital.dll.config
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\System.Web.Optimization.xml
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\System.Web.Mvc.xml
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\System.Web.Http.xml
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\MySql.Data.xml
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\System.Web.Razor.xml
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\System.Web.WebPages.xml
+C:\Users\Radu1\documents\visual studio 2017\Projects\Hospital\LogIn\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Radu1\Desktop\Hospital\LogIn\obj\Debug\LogIn.csprojResolveAssemblyReference.cache
+C:\Users\Radu1\Desktop\Hospital\LogIn\obj\Debug\LogIn.Form1.resources
+C:\Users\Radu1\Desktop\Hospital\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\Radu1\Desktop\Hospital\LogIn\obj\Debug\LogIn.csproj.GenerateResource.Cache
+C:\Users\Radu1\Desktop\Hospital\LogIn\obj\Debug\LogIn.exe
+C:\Users\Radu1\Desktop\Hospital\LogIn\obj\Debug\LogIn.pdb
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\ApplicationInsights.config
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\LogIn.exe
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\LogIn.pdb
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\Administrator.exe
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\Doctor.exe
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\Hospital.dll
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\System.Web.Http.dll
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\System.Web.Optimization.dll
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\System.Web.Mvc.dll
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\MySql.Data.dll
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\WebGrease.dll
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\System.Web.Razor.dll
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\System.Web.WebPages.dll
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\Administrator.pdb
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\Administrator.exe.config
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\Doctor.pdb
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\Doctor.exe.config
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\Hospital.pdb
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\Hospital.dll.config
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\System.Web.Http.xml
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\System.Web.Optimization.xml
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\System.Web.Mvc.xml
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\MySql.Data.xml
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\System.Web.Razor.xml
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\System.Web.WebPages.xml
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Radu1\Desktop\Hospital\LogIn\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\obj\Debug\LogIn.csprojResolveAssemblyReference.cache
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\obj\Debug\LogIn.csproj.GenerateResource.Cache
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\obj\Debug\LogIn.exe
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\obj\Debug\LogIn.pdb
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\ApplicationInsights.config
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\csc.exe
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\csc.exe.config
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\csc.rsp
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\csi.exe
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\csi.exe.config
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\csi.rsp
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.Console.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.Diagnostics.Process.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.IO.Compression.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.IO.Pipes.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.Security.AccessControl.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.Security.Claims.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.Threading.Thread.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.ValueTuple.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.Xml.XPath.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\vbc.exe
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\vbc.exe.config
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\vbc.rsp
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\LogIn.exe
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\LogIn.pdb
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\Administrator.exe
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\Doctor.exe
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\Hospital.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\System.Web.Http.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\System.Web.Optimization.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\System.Web.Mvc.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\WebGrease.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\System.Web.Razor.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\System.Web.WebPages.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\Administrator.pdb
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\Doctor.pdb
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\Hospital.pdb
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\System.Web.Http.xml
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\System.Web.Optimization.xml
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\System.Web.Mvc.xml
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\System.Web.Razor.xml
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\System.Web.WebPages.xml
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\obj\Debug\LogIn.LoginForm.resources
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\MySql.Data.dll
+C:\Users\Balanescu Victor\Desktop\a3Radu\Hospital\LogIn\bin\Debug\MySql.Data.xml
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\obj\Debug\LogIn.exe
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\obj\Debug\LogIn.pdb
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\obj\Debug\LogIn.csprojResolveAssemblyReference.cache
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\obj\Debug\LogIn.LoginForm.resources
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\obj\Debug\LogIn.csproj.GenerateResource.Cache
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\csc.exe
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\csc.exe.config
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\csc.rsp
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\csi.exe
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\csi.exe.config
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\csi.rsp
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Console.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Diagnostics.Process.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.IO.Compression.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.IO.Pipes.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Security.AccessControl.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Security.Claims.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Threading.Thread.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.ValueTuple.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Xml.XPath.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\vbc.exe
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\vbc.exe.config
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\vbc.rsp
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\ApplicationInsights.config
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\LogIn.exe
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\LogIn.pdb
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\Administrator.exe
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\Doctor.exe
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\Hospital.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\System.Web.Http.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\System.Web.Optimization.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\System.Web.Mvc.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\MySql.Data.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\WebGrease.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\System.Web.Razor.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\System.Web.WebPages.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\Administrator.pdb
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\Doctor.pdb
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\Hospital.pdb
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\System.Web.Http.xml
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\System.Web.Optimization.xml
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\System.Web.Mvc.xml
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\MySql.Data.xml
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\System.Web.Razor.xml
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\System.Web.WebPages.xml
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Balanescu Victor\Desktop\a3Ref\Hospital\LogIn\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\ApplicationInsights.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\LogIn.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\LogIn.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\Administrator.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\Doctor.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\Hospital.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\System.Web.Http.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\System.Web.Optimization.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\System.Web.Mvc.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\MySql.Data.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\WebGrease.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\System.Web.Razor.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\System.Web.WebPages.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\Antlr3.Runtime.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\Administrator.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\Doctor.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\Hospital.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\System.Web.Http.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\System.Web.Optimization.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\System.Web.Mvc.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\MySql.Data.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\System.Web.Razor.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\System.Web.WebPages.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\obj\Debug\LogIn.csprojResolveAssemblyReference.cache
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\obj\Debug\LogIn.LoginForm.resources
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\obj\Debug\LogIn.csproj.GenerateResource.Cache
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\obj\Debug\LogIn.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\obj\Debug\LogIn.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\Secretary.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\Secretary.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\obj\Debug\LogIn.csproj.LogIn.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\csc.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\csc.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\csc.rsp
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\csi.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\csi.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\csi.rsp
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Console.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Diagnostics.Process.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.IO.Compression.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.IO.Pipes.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Security.AccessControl.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Security.Claims.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Threading.Thread.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.ValueTuple.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Xml.XPath.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\vbc.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\vbc.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\vbc.rsp
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\a3Ref\Hospital\LogIn\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\obj\Debug\LogIn.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\obj\Debug\LogIn.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\ApplicationInsights.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\LogIn.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\LogIn.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\Administrator.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\Hospital.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\System.Web.Http.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\System.Web.Optimization.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\System.Web.Mvc.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\MySql.Data.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\WebGrease.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\System.Web.Razor.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\System.Web.WebPages.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\Antlr3.Runtime.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\Administrator.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\Hospital.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\System.Web.Http.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\System.Web.Optimization.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\System.Web.Mvc.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\MySql.Data.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\System.Web.Razor.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\System.Web.WebPages.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\obj\Debug\LogIn.csprojResolveAssemblyReference.cache
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\obj\Debug\LogIn.csproj.LogIn.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\obj\Debug\LogIn.LoginForm.resources
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\obj\Debug\LogIn.csproj.GenerateResource.Cache
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\User.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Hospital\LogIn\bin\Debug\User.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\LogIn\bin\Debug\LogIn.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\LogIn\bin\Debug\LogIn.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\LogIn\bin\Debug\Administrator.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\LogIn\bin\Debug\User.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\LogIn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\LogIn\bin\Debug\Administrator.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\LogIn\bin\Debug\User.pdb
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\LogIn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\LogIn\obj\Debug\LogIn.csprojResolveAssemblyReference.cache
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\LogIn\obj\Debug\LogIn.csproj.LogIn.exe.config
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\LogIn\obj\Debug\LogIn.LoginForm.resources
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\LogIn\obj\Debug\LogIn.csproj.GenerateResource.Cache
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\LogIn\obj\Debug\LogIn.exe
+C:\Users\vbalanescu.CLJ\Documents\Visual Studio 2015\Projects\Chat\LogIn\obj\Debug\LogIn.pdb
