@@ -24,6 +24,54 @@ namespace User
             this.u = u;
             this.Text = u.UserName;
             updateUser();
+
+            //new Thread(threadFunc).Start();
+        }
+
+        private void threadFunc()
+        {
+            while (true)
+            {
+                // handle.WaitOne();
+                Thread.Sleep(1000);
+                refresh();
+            }
+        }
+
+        private IEnumerable<MessageC> getMessages(MessageC m)
+        {
+            HttpClient client = new HttpClient();
+            client.BaseAddress = new Uri("http://localhost:50086/");
+
+            client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+
+            HttpResponseMessage response = client.PostAsJsonAsync("api/getMessages", m).Result;
+
+            if (response.IsSuccessStatusCode)
+            {
+                var messages = response.Content.ReadAsAsync<IEnumerable<MessageC>>().Result;
+                return messages;
+            }
+
+            return null;
+        }
+
+        private void refresh()
+        {
+            IEnumerable<User> users = getOnlineUsers();
+
+            foreach (User u2 in users)
+            {
+                IEnumerable<MessageC> messages = getMessages(new MessageC() { IdS = u.Id, IdR = u2.Id });
+                if (messages.Count() > 0)
+                {
+                    if (messages.Last().Seen == false)
+                    {
+                        ChatForm chat = new ChatForm(this.u, u2);
+                        chat.Visible = true;
+                    }
+                }
+            }
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)

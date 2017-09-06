@@ -214,7 +214,21 @@ namespace Hospital.Providers
                     }
                 }
             }
-            return MessageList;
+
+            connString = ConfigurationManager.ConnectionStrings["MySqlConnection"].ConnectionString;
+
+            using (MySqlConnection conn = new MySqlConnection(connString))
+            {
+                conn.Open();
+                MySqlCommand cmd = new MySqlCommand();
+                cmd.Connection = conn;
+                cmd.Connection = conn;
+                cmd.CommandText = "UPDATE `Messages` SET `seen` = 1 WHERE idR =" + msg.IdS + ";";
+                cmd.Prepare();
+
+                cmd.ExecuteNonQuery();
+            }
+                return MessageList;
         }
 
         public static User GetById(string id)
